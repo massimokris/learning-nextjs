@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a starter website that I coded learning with [Learn Next.js](https://nextjs.org/learn).
+
+Check the live example [here](https://learning-nextjs-roan.vercel.app/).
