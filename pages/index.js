@@ -21,11 +21,11 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Massi. I'm a person that love learn something new every day.</p>
+        <p>Hello, I'm Massi a person that love learn something new every day.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          I coded this sample blog from the <a href="https://nextjs.org/learn">Next.js tutorial</a>
         </p>
+        <p>If you would like to talk. <a href="https://twitter.com/massimokris">Send me a Twitter DM</a></p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
